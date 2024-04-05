@@ -1,2 +1,2 @@
-# javascript-game
-belajar membuat game berbasis javascript
+# tugas-api
+membuat aplikasi api berbasis javascript
